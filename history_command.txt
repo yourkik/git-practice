@@ -1,0 +1,10 @@
+    1  ls -lh | less
+    2  ls -lh
+    3  chmod 722 먹고싶은것
+    4  chmod 722 먹고싶은것.txt
+    5  ls -lh
+    6  chmod 772 먹고싶은것.txt
+    7  ls -lh
+    8  chmod 644 먹고싶은것.txt
+    9  ls -lh
+   10  history > history_command.txt
