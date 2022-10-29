@@ -2,4 +2,4 @@ first edition
 second edition
 third edition
 issue resolved
-fix my solution
+hotfix team's solution
